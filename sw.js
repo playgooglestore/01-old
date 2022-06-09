@@ -1,6 +1,4 @@
-const staticCacheName = 'site-static-v1';
-const assets = [
-  '/01/',
+const dynamicCacheName = 'site-dynamic-v1';
   
   ];
   
