@@ -7,6 +7,7 @@
     "name": "eDarling",
     "short_name": "eDarling",
     "description": "eDarling - Wejdź w bliski związek",
+    "orientation": "any",
     "icons": [
         {
             "src": "/01/icon-512x512.png",
