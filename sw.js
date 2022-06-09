@@ -1,4 +1,8 @@
-const dynamicCacheName = 'site-dynamic-v1';
+const staticCacheName = 'site-static-v1';
+const assets = [
+  '/01/',
+  
+  ];
   
 // событие install
 self.addEventListener('install', evt => {
