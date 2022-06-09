@@ -1,7 +1,5 @@
 const dynamicCacheName = 'site-dynamic-v1';
   
-  ];
-  
 // событие install
 self.addEventListener('install', evt => {
   evt.waitUntil(
