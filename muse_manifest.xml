@@ -1,8 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Primulaa.com" resolutions="1x" timestamp="1654784471059">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="playgooglestore.github.io" resolutions="1x" timestamp="1654856761288">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3836939668" ref="index"/>
-    <file name="index02.css" crc="419539156" ref="index02"/>
+    <file name="index.css" crc="495662095" ref="index"/>
+    <file name="index02.css" crc="89658115" ref="index02"/>
+  </folder>
+  <folder name="fonts">
+    <file name="productsansbold.woff" crc="4073882580"/>
+    <file name="productsansbold.eot" crc="3762804211"/>
+    <file name="productsansbold.svg" crc="4243960317"/>
+    <file name="productsansregular.woff" crc="4254066433"/>
+    <file name="productsansregular.eot" crc="3933691702"/>
+    <file name="productsansregular.svg" crc="4226781279"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:index02"/>
@@ -29,22 +37,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index02" alt=""/>
     </file>
-    <file name="u171-4.png" crc="462249254" ref="index"/>
-    <file name="u174-4.png" crc="65546167" ref="index"/>
-    <file name="u177-4.png" crc="4060062116" ref="index"/>
     <file name="03.jpg" crc="143037936" seo="true" ref="index:index02">
       <caption webpage="index" alt=""/>
       <caption webpage="index02" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:index02"/>
-    <file name="u397.png" crc="4081800110" ref="index"/>
-    <file name="u397-r.png" crc="4081800110" ref="index"/>
     <file name="04.jpg" crc="200117176" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="012.jpg" crc="102535258" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="02.jpg" crc="255142084" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -57,20 +60,7 @@
     <file name="05.jpg" crc="55123116" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u637-4.png" crc="4030258206" ref="index"/>
-    <file name="u643-4.png" crc="237832002" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="u1075-5.png" crc="506606656" ref="index"/>
-    <file name="u1078-9.png" crc="4201319397" ref="index"/>
-    <file name="u1093-6.png" crc="379946679" ref="index"/>
-    <file name="u1144-5.png" crc="205780851" ref="index"/>
-    <file name="u1147-4.png" crc="3818646901" ref="index"/>
-    <file name="u1166-4.png" crc="429808508" ref="index"/>
-    <file name="u1172-4.png" crc="3783007796" ref="index"/>
-    <file name="u1178-4.png" crc="4251760518" ref="index"/>
-    <file name="u1184-4.png" crc="5569963" ref="index"/>
-    <file name="u1190-4.png" crc="187418623" ref="index"/>
-    <file name="u1193-4.png" crc="142010592" ref="index"/>
     <file name="01.png" crc="3775953243" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -83,8 +73,6 @@
     <file name="04.png" crc="69981642" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1242-5.png" crc="274778002" ref="index"/>
-    <file name="u1245-5.png" crc="4202682359" ref="index"/>
     <file name="15.jpg" crc="4098912780" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -94,51 +82,28 @@
     <file name="aoh14ghjhbqjj3obrbe_wfcxgh3pj5uc.jpg" crc="4082855377" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1343-4.png" crc="304174487" ref="index"/>
     <file name="20.jpg" crc="4281158702" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1358-4.png" crc="4261351241" ref="index"/>
-    <file name="u1363-4.png" crc="405559409" ref="index"/>
     <file name="19.jpg" crc="439425696" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1409-4.png" crc="347125088" ref="index"/>
     <file name="21.jpg" crc="90400229" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1426-4.png" crc="375230957" ref="index"/>
-    <file name="u1422-4.png" crc="437152572" ref="index"/>
     <file name="18.jpg" crc="4179033627" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1440-4.png" crc="4252869857" ref="index"/>
-    <file name="u1457-4.png" crc="86858130" ref="index"/>
-    <file name="u1453-4.png" crc="4293969096" ref="index"/>
     <file name="aoh14ghhvqvjuxmtool-b82_xfdcz-2t.jpg" crc="3809024538" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u2333-4.png" crc="408957504" ref="index"/>
-    <file name="u2311-4.png" crc="169282723" ref="index"/>
-    <file name="u2306-4.png" crc="3912837168" ref="index"/>
     <file name="aoh14gggqmic4rp8dlg-hohqr1z89fpz.jpg" crc="319349165" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u2341-4.png" crc="3961935374" ref="index"/>
-    <file name="u2347-4.png" crc="330039059" ref="index"/>
-    <file name="u2344-4.png" crc="4161362844" ref="index"/>
-    <file name="u2203.png" crc="4081800110" ref="index"/>
-    <file name="u2203-r.png" crc="4081800110" ref="index"/>
-    <file name="u2645-4.png" crc="462249254" ref="index02"/>
-    <file name="u2646-4.png" crc="65546167" ref="index02"/>
-    <file name="u2647-4.png" crc="4060062116" ref="index02"/>
-    <file name="u2709-4.png" crc="3964470957" ref="index02"/>
-    <file name="u2723.png" crc="118899998" ref="index02"/>
-    <file name="u2723-r.png" crc="118899998" ref="index02"/>
   </folder>
-  <file name="index.html" crc="420228550" seo="true" mt="1654778261411" redirect="true"/>
-  <file name="index02.html" crc="3977320577" seo="true" mt="1654784115080" redirect="true"/>
+  <file name="index.html" crc="315483342" seo="true" mt="1654856547603" redirect="true"/>
+  <file name="index02.html" crc="3967039766" seo="true" mt="1654856206623" redirect="true"/>
 </manifest>
